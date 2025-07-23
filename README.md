@@ -41,7 +41,7 @@ Each document is processed through:
 ➤ Official source: https://www.gutenberg.org/
 ➤ NLTK Gutenberg details: https://www.nltk.org/nltk_data/
 
-## Our Results ##
+## Inference Results ##
 Query Score (Unigram): -23.0179
 Bigram log-probability score: -20.3374
 Docs containing 'scienc': [3, 8, 9, 10, 11, 12, 13, 17]
