@@ -19,7 +19,7 @@ Each document is processed through:
 - Construction of:
   - Vocabulary
   - Inverted index
-  - Unigram and Bigram models with Laplace smoothing
+  - Unigram and Bigram models with Laplace smoothing Log Probability
 
 ---
 
@@ -45,3 +45,5 @@ Each document is processed through:
 Query Score (Unigram): -23.0179
 Bigram log-probability score: -20.3374
 Docs containing 'scienc': [3, 8, 9, 10, 11, 12, 13, 17]
+Laplace-smoothed bigram probability for the sentence: 0.0030959752
+Laplace-smoothed bigram log-probability: -5.7777
